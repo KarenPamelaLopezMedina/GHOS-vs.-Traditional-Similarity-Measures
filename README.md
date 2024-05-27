@@ -9,3 +9,5 @@ Three data sets were used.
 The training is done with 2000 instances ensuring that all classes are presented in these instances.
 
 And finally the notebook where the experiments were carried out with the data sets described above and the similarity metrics: GHOS, Jaccard index, Minkowsky 1, Minokowsky 2, Manhattan and Pearson coefficient.
+
+The version of python used was 3.12.
